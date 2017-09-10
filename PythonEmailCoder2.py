@@ -23,7 +23,7 @@ toaddr = "elizahab@gmail.com"
 msg = MIMEMultipart()
 msg['From'] = fromaddr
 msg['To'] = toaddr
-#Type the subject 
+#Type the subject
 msg['Subject'] = "Python Email Encoder"
 #Type the body message
 body = ("Dear Mr ELi Belli, Above is your encoded Message from Meir Lebowitz, to DECRYPT this message, use this Conversion Key or download python and il give u a code that you can just copy and paste it into: \n a = 97 \n b = 98 \n etc\ space = 32")
